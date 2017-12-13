@@ -12,14 +12,23 @@ Take an array of integers where each value is from 0-9. Output how many occurren
 #### If my array was 1 3 3 2 3 5 5 5 5 4 5 5 4 5, the output would be...
 
 0 - 0
+
 1 - 1
+
 2 - 1
+
 3 - 3
+
 4 - 2
+
 5 - 7
+
 6 - 0
+
 7 - 0
+
 8 - 0
+
 9 - 0
 
 
